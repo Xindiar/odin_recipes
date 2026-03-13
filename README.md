@@ -9,3 +9,16 @@ Subject : adding Index.html and all recipes
 
 explanation : it contains the basic heading with a brief summary for different recipes . with ingredients and steps for preparation.
 recipes include lasagna , Chicked fried rice , Empanadas , Jollof rice , Saamosas , Ramen , Shawarma and French fries
+
+
+Version 2
+13-March-2026
+For this version, I will be using css foundations and linking them to my recipes .
+
+Subject: adding CSS styles 
+
+explanation : using all unique foundations css methods for each of my recipes to add a unique touch to them 
+
+Div : added in items.html on odin recipes
+p: on paragraph on multi-cultural cuisines 
+button : homepage on each recipe
