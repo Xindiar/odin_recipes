@@ -1,9 +1,30 @@
 /* CSS for index.html */
 
-div{
+.main-heading{
     background-color: red; 
     font-size: 32px; 
     color: white;
     text-align: center;
     font-weight: bold;
+}
+
+.odd-leader{
+    background-color: #ED4064 ;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#ID1{
+    color: blue;
+    font-size: 36px;
+}
+
+#ID2{
+    font-size: 24px;
+}
+
+#ID3{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+    
 }
