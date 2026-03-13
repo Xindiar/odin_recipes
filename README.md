@@ -35,3 +35,12 @@ Explanation : Using Class and ids to give different styles to my list of recipes
 Odd are same class
 even are using IDs
 3 list item has class and id
+
+Version 2.2
+13-March-2026
+for this version , I will be using group selectors on the homepage option on different recipes .
+
+Subject: adding styles to few buttons 
+
+Explaination: adding diffent styling to homepage buttons in lasagna , Ramen and French fries (Black background and white letters) , Empanadas , Shawarma and Samosa (Yellow background)
+
