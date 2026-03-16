@@ -42,5 +42,5 @@ for this version , I will be using group selectors on the homepage option on dif
 
 Subject: adding styles to few buttons 
 
-Explaination: adding diffent styling to homepage buttons in lasagna , Ramen and French fries (Black background and white letters) , Empanadas , Shawarma and Samosa (Yellow background)
+Explaination: adding diffent styling to homepage buttons in lasagna , Ramen and French fries (Black background and white letters) , Empanadas , Shawarma and Samosa (Yellow background) with same fonts
 
