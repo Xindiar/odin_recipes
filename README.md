@@ -44,3 +44,16 @@ Subject: adding styles to few buttons
 
 Explaination: adding diffent styling to homepage buttons in lasagna , Ramen and French fries (Black background and white letters) , Empanadas , Shawarma and Samosa (Yellow background) with same fonts
 
+
+Version 2.3
+
+16-March-2026
+using all learnt in css module for improving the look of the website
+
+Subject : Visual improvements in website
+
+Explanation:
+1) Centering the Tile and paragraph of index page and adjusting its width to 400px and 800px 
+2) Centering Recipe title , "Ingredient" and "Steps" in all recipes
+3) changing homepage button color from black to redorange in Black class
+
